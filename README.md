@@ -37,7 +37,7 @@ Three main reasons this laptop is the better option is:
 
 ## Resources
 
-- https://www.amazon.com/HP-i7-1160G7-Bluetooth-Windows-Accessories/dp/B09FF2JPMY/ref=sr_1_2_sspa?crid=VHLZUF8VWADG&keywords=laptop&qid=1689605977&refinements=p_36%3A2421888011&rnid=2421885011&s=pc&sprefix=laptop+%2Caps%2C293&sr=1-2-spons&ufe=app_do%3Aamzn1.fos.ac2169a1-b668-44b9-8bd0-5ec63b24bcb5&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1
+- [Soure](https://www.amazon.com/HP-i7-1160G7-Bluetooth-Windows-Accessories/dp/B09FF2JPMY/ref=sr_1_2_sspa?crid=VHLZUF8VWADG&keywords=laptop&qid=1689605977&refinements=p_36%3A2421888011&rnid=2421885011&s=pc&sprefix=laptop+%2Caps%2C293&sr=1-2-spons&ufe=app_do%3Aamzn1.fos.ac2169a1-b668-44b9-8bd0-5ec63b24bcb5&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 - https://www.cpubenchmark.net/cpu_list.php
 - https://www.markdownguide.org/cheat-sheet/
 - https://www.bestbuy.com/site/lenovo-ideapad-1-15-6-hd-laptop-athlon-silver-7120u-with-4gb-memory-128gb-ssd-cloud-grey/6531746.p?skuId=6531746
