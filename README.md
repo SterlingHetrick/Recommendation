@@ -18,7 +18,7 @@ Three main reasons this laptop is the better option is:
 
 
 
-![Laptop mentioned below.](Computer_Okay.jpg)
+![Laptop mentioned below.](Computer_Okay.html)
 
 Three main reasons this laptop is the better option is:
 
@@ -27,7 +27,7 @@ Three main reasons this laptop is the better option is:
 3. It's **Cheap**!
 
 
-![Laptop mentioned below.](Computer_Best.jpg)
+![Laptop mentioned below.](Computer_Best.html)
 
 Three main reasons this laptop is the better option is:
 
