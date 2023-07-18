@@ -1,6 +1,6 @@
 # Recommendation
 
-This site is about my love for bouldering as it's **AMAZING**. Bouldering is rock climbing inside or outside on boulders or shorter walls without ropes and instead using crash pads for fall protection.
+This site is compares three laptops, two to replace the one that will be supplied to the company.
 
 
 
@@ -9,11 +9,11 @@ This site is about my love for bouldering as it's **AMAZING**. Bouldering is roc
 
 ![Laptop mentioned below.](Computer_Worst.jpg)
 
-Three main reasons this laptop is the better option is:
+Three main reasons this laptop is the worst option is:
 
 1. It's 
 2. It's
-3. It's
+3. It's 
 
 
 
@@ -22,7 +22,7 @@ Three main reasons this laptop is the better option is:
 
 Three main reasons this laptop is the better option is:
 
-1. It's cpu benchmark is 9,169.
+1. It's cpu benchmark is .
 2. It's mentally stimulating.
 3. It's **Cheap**!
 
@@ -33,7 +33,7 @@ Three main reasons this laptop is the better option is:
 
 1. It's cpu benchmark is 9,169.
 2. It's mentally stimulating.
-3. It's **fun**!
+3. It's **under $700**!
 
 ## Resources
 
